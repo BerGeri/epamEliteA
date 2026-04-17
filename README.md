@@ -1,4 +1,7 @@
-IyBlcGFtRWxpdGVBCgpQbGF5d3JpZ2h0IFVJIHRlc3RzIChUeXBlU2NyaXB0KS4K
+# epamEliteA
+
+Playwright UI tests (TypeScript).
+
 ## Install
 
 ```bash
